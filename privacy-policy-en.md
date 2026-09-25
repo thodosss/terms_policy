@@ -65,7 +65,9 @@ We share it only with parties who need it to run the service, and only on our in
 
 - **Stripe Payments Europe, Ltd.**, for card, Apple Pay, and Google Pay payments
 - **Resend** ([resend.com](https://resend.com/)), to send the emails with instructions and access codes. Resend processes the email address and the message content, only on our instructions
-- **[HOSTING PROVIDER]**, to host the app and the website
+- **Vercel**, to host the website and the app
+- **Papaki**, for the domain name www.locknleave.gr
+- **Firebase (Google)**, for the database of accounts and bookings
 - a competent authority, court, or insurer, when the law requires it or when we need to establish or defend a legal claim
 
 These providers may not use the data for their own purposes.
@@ -74,7 +76,7 @@ These providers may not use the data for their own purposes.
 
 We aim for our providers to process data inside the European Economic Area.
 
-Stripe, Resend, and some infrastructure providers may also process data outside the EEA, including in the United States. Where that happens, the transfer relies on a European Commission adequacy decision or on Standard Contractual Clauses.
+Stripe, Resend, Vercel, and Firebase (Google) may also process data outside the EEA, including in the United States. Where that happens, the transfer relies on a European Commission adequacy decision or on Standard Contractual Clauses. Papaki is a provider in Greece and manages the domain name.
 
 ## 6. How long we keep data
 
