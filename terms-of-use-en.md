@@ -4,7 +4,7 @@ Last updated: 23 September 2026
 
 These Terms of Use (“Terms”) govern your use of the website www.locknleave.gr, the Lock n Leave mobile application, and the rental of our automatic luggage lockers.
 
-The service is provided by **[COMPANY NAME]**, registered office **[REGISTERED ADDRESS]**, tax number (ΑΦΜ) **[AFM]**, GEMI number **[GEMI]** (“Lock n Leave”, “we”, “us”).
+The service is provided by **SK-Globe web & app solutions O.E.**, tax number (ΑΦΜ) **803153663**, GEMI number **190830606000** (“Lock n Leave”, “we”, “us”).
 
 By creating an account or completing a booking, you confirm that you are at least 18 years old, that you have read these Terms, and that you accept them. If you do not agree, do not create an account and do not book a locker.
 
@@ -122,7 +122,7 @@ If a dispute arises, we first try to resolve it by discussion. If that fails, th
 
 ## 13. Contact
 
-**[COMPANY NAME]**  
-ΑΦΜ **[AFM]** · GEMI **[GEMI]**  
+**SK-Globe web & app solutions O.E.**  
+ΑΦΜ **803153663** · GEMI **190830606000**  
 Egnatias 21, Thessaloniki, Greece  
 Email: locknleaveskg@gmail.com

@@ -2,7 +2,7 @@
 
 Last updated: 23 September 2026
 
-This Policy explains what personal data **[COMPANY NAME]** (“Lock n Leave”, “we”) processes when you use the website www.locknleave.gr, the Lock n Leave app, or our lockers at Egnatias 21, Thessaloniki.
+This Policy explains what personal data **SK-Globe web & app solutions O.E.** (“Lock n Leave”, “we”) processes when you use the website www.locknleave.gr, the Lock n Leave app, or our lockers at Egnatias 21, Thessaloniki.
 
 It is written for the EU General Data Protection Regulation (GDPR) and Greek law 4624/2019.
 
@@ -10,10 +10,9 @@ The Terms of Use are a separate document. They govern the locker rental. This Po
 
 ## 1. Data controller
 
-**[COMPANY NAME]**  
-Registered office: **[REGISTERED ADDRESS]**  
-Tax number (ΑΦΜ): **[AFM]**  
-GEMI: **[GEMI]**  
+**SK-Globe web & app solutions O.E.**  
+Tax number (ΑΦΜ): **803153663**  
+GEMI: **190830606000**  
 Locker premises: Egnatias 21, Thessaloniki, Greece  
 Email: locknleaveskg@gmail.com
 
@@ -133,6 +132,7 @@ If the way we process data changes, we publish the new Policy on the website and
 
 ## 13. Contact
 
-**[COMPANY NAME]**  
+**SK-Globe web & app solutions O.E.**  
+ΑΦΜ: **803153663** · GEMI: **190830606000**  
 Email: locknleaveskg@gmail.com  
 Egnatias 21, Thessaloniki, Greece
