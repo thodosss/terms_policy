@@ -1,6 +1,6 @@
 # Terms of Use
 
-Last updated: 23 September 2026
+Last updated: 25 September 2026
 
 These Terms of Use (“Terms”) govern your use of the website www.locknleave.gr, the Lock n Leave mobile application, and the rental of our automatic luggage lockers.
 
@@ -36,7 +36,7 @@ Accepted payment methods: card, Apple Pay, and Google Pay, processed by Stripe. 
 
 Prices are in euro and include VAT. The price shown before you pay is the price of that booking.
 
-After successful payment we send the access codes by email and SMS. Check that your email address and phone number are correct. Without them we cannot deliver access.
+After successful payment, the instructions and access codes appear in the app and are also sent by email. Check that your email address is correct.
 
 Extra charges may apply for a storage extension, for handling a forgotten item, and for manual assistance, as described below.
 

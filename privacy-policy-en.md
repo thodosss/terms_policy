@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 23 September 2026
+Last updated: 25 September 2026
 
 This Policy explains what personal data **SK-Globe web & app solutions O.E.** (“Lock n Leave”, “we”) processes when you use the website www.locknleave.gr, the Lock n Leave app, or our lockers at Egnatias 21, Thessaloniki.
 
@@ -24,7 +24,7 @@ We have not appointed a data protection officer. For any privacy request, write 
 First name, last name, email address, phone number, and password. The password is stored as a hash, not in a form we can read.
 
 **Booking**  
-Locker size, start and end time, locker access codes, and the email or SMS messages used to send those codes.
+Locker size, start and end time, locker access codes, their display in the app, and the emails used to send the instructions and codes.
 
 **Payment**  
 Payment method: card, Apple Pay, or Google Pay, through Stripe. Stripe processes the card or wallet details. We receive the payment status and a transaction reference. We do not store the full card number or the CVV.
@@ -38,14 +38,14 @@ A video-surveillance system operates at the locker premises. It records image an
 **Messages you send us**  
 What you send by email, through the account-deletion form, or through support channels (for example WhatsApp or Viber), so that we can answer the request.
 
-We do not ask for an identity-card number, and we do not send promotional email, SMS, or push notifications. Our messages are only about the booking: confirmation, access codes, and necessary notices about that rental.
+We do not ask for an identity-card number, and we do not send promotional email or push notifications. Our messages are only about the booking: confirmation, instructions, access codes, and necessary notices about that rental.
 
 ## 3. Why we process data, and the legal basis
 
 | Purpose | Data | Legal basis |
 |---|---|---|
 | Create the account and rent the locker | Account and booking details | Contract |
-| Send access codes by email and SMS | Email, phone number, codes | Contract |
+| Show instructions and access codes in the app and send them by email | Email, instructions, codes | Contract |
 | Take payment | Data exchanged with Stripe | Contract |
 | Invoices and tax records | Transaction details | Legal obligation |
 | Account security and abuse prevention | IP address, technical logs, booking history | Legitimate interest |
@@ -64,8 +64,8 @@ We do not sell personal data.
 We share it only with parties who need it to run the service, and only on our instructions:
 
 - **Stripe Payments Europe, Ltd.**, for card, Apple Pay, and Google Pay payments
-- **[SMS PROVIDER]**, to send access codes by SMS
-- **[EMAIL / HOSTING PROVIDER]**, to host the app and the website and to send email
+- **Resend** ([resend.com](https://resend.com/)), to send the emails with instructions and access codes. Resend processes the email address and the message content, only on our instructions
+- **[HOSTING PROVIDER]**, to host the app and the website
 - a competent authority, court, or insurer, when the law requires it or when we need to establish or defend a legal claim
 
 These providers may not use the data for their own purposes.
@@ -74,7 +74,7 @@ These providers may not use the data for their own purposes.
 
 We aim for our providers to process data inside the European Economic Area.
 
-Stripe and some infrastructure providers may also process data outside the EEA, including in the United States. Where that happens, the transfer relies on a European Commission adequacy decision or on Standard Contractual Clauses.
+Stripe, Resend, and some infrastructure providers may also process data outside the EEA, including in the United States. Where that happens, the transfer relies on a European Commission adequacy decision or on Standard Contractual Clauses.
 
 ## 6. How long we keep data
 
